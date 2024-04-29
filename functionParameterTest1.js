@@ -1,5 +1,5 @@
 // 함수 선언
-function greetings(name) {
+function welcome(name) {
     console.log('안녕하세요 '+name+'님!');
 };
 
